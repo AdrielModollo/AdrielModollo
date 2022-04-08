@@ -9,7 +9,7 @@ Currently working as Backend developer at Saúde iD
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516988282106&text=Olá!)](https://api.whatsapp.com/send?phone=5516988282106&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrielmodollo@outlook.com)](mailto:adrielmodollo@outlook.com)
 
-#### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
+#### below are some technologies I'm used to work with. Take a look!
 
 - 💻 <b>Programming Languages</b>: 
     </br>
