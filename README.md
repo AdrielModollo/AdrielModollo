@@ -21,19 +21,21 @@ Currently working as Backend developer at Saúde iD
 - 💻 <b>Front-End</b>: 
     </br>
   <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/> 
-  <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=c21325)<a/>
     
-- 💻 <b>Back-End</b>: 
+- 💻 <b>Back-End Terminal</b>: 
     </br>
   <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)<a/>
   <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=c21325)<a/>
   <a href="https://spring.io/projects/spring-boot">![Spring Badge](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring&logoColor=339933)<a/>
-  <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)<a/>
     
 - 💻 <b>Mobile</b>:
     </br>
   <a href="https://reactnative.dev///"> ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
     
+- 💻 <b>PubSub</b>:
+  - Kafka :mailbox:  
+  - GCP :mailbox:  
+      
 - :gear: <b>Cloud</b>: 
     </br>
   <a href="https://www.docker.com/"> ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)<a/>
