@@ -33,12 +33,14 @@ Currently working as Backend developer at Saúde iD
   <a href="https://reactnative.dev///"> ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
     
 - 💻 <b>PubSub</b>:
-  - Kafka :mailbox:  
-  - GCP :mailbox:  
+      </br>
+  <a href="https://kafka.apache.org/"> ![Kafka Badge](https://img.shields.io/badge/-Kafka-black?style=flat&logo=kafka&logoColor=blue)<a/>
+  <a href="https://cloud.google.com/?hl=pt-br"> ![GCP Badge](https://img.shields.io/badge/-GCP-black?style=flat&logo=gcp&logoColor=blue)<a/>
       
 - :gear: <b>Cloud</b>: 
     </br>
   <a href="https://www.docker.com/"> ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)<a/>
+  <a href="https://www.azure.com/"> ![Azure Badge](https://img.shields.io/badge/-Azure-black?style=flat&logo=azure&logoColor=blue)<a/>
     
 - 🗄️ <b>Databases:</b>
     </br>
