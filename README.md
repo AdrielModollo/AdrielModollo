@@ -45,7 +45,9 @@ Currently working as Backend developer at Saúde iD
   <a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=339933)<a/>
   <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-black?style=flat&logo=oracle&logoColor=c21325)<a/>
       
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielModollo&langs_count=3" alt="toplangs" />
+</p>
       
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrielModollo&theme=default&show_icons=true&hide=issues&hide_border=true" alt="AdrielModollo" />
