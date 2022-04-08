@@ -46,4 +46,4 @@ Currently working as Backend developer at Saúde iD
   <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-black?style=flat&logo=oracle&logoColor=c21325)<a/>
       
 ![Adriel Modollo GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielModollo&show_icons=true&theme=tokyonight&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php,html,glsl,rust,css)](https://github.com/anuraghazra/github-readme-stats)
