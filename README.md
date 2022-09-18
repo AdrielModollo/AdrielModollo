@@ -54,6 +54,6 @@ Currently working as Backend developer at Saúde iD
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielModollo&exclude_repo=Node.js,blogNode,NodeJS-Intruduction,nodeJEST,apiPetshop,React-app-Node,nodeSolidCrud,NodeTestavel,nodeCRUD,Media-Aluno-Node,gerarPdfNode,BootstrapComJs&langs_count=3&hide=html,php,css,hack,scss" alt="toplangs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielModollo&exclude_repo=Node.js,blogNode,NodeJS-Intruduction,nodeJEST,apiPetshop,React-app-Node,nodeSolidCrud,NodeTestavel,nodeCRUD,BootstrapComJs&langs_count=3&hide=html,php,css,hack,scss" alt="toplangs" />
 </p>
       
