@@ -6,7 +6,7 @@ Currently working as Backend developer at Saúde iD
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdrielModollo)](https://github.com/AdrielModollo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-modollo/)](https://www.linkedin.com/in/adriel-modollo/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997139698&text=Olá, muito obrigado por me contatar. Em breve irei te responder (:)](https://api.whatsapp.com/send?phone=5516988282106&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997139698&text=Olá!)](https://api.whatsapp.com/send?phone=5516988282106&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrielmodollo@outlook.com)](mailto:adrielmodollo@outlook.com)
 
 #### below are some technologies I'm used to work with. Take a look!
