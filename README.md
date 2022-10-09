@@ -2,7 +2,6 @@
 
 I'm a full-stack developer!
 
-Currently working as Backend developer at Saúde iD
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdrielModollo)](https://github.com/AdrielModollo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-modollo/)](https://www.linkedin.com/in/adriel-modollo/)
